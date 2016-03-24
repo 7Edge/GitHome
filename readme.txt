@@ -34,4 +34,5 @@ git local  assoc  github:
 #git push -u origin master 第一次加-u参数，以后本地提交完成，就不需要-u直接：
 #git push origin master
 
-
+测试：
+在dev分支上修改并add commit但是没有合并，然后切换到master，再修改master add commit 查看结果，再合并，查看结果是什么样的。
