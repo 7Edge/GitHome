@@ -2,6 +2,7 @@ Git is a distributed version control system.
 Git is free software distributed under GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
+Create a new branch quickly.
 Acount:
 #git config --global user.name "+7"
 #git config --global user.email "1399622866@qq.com"
