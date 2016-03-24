@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under GPL.
 Acount:
 #git config --global user.name "+7"
 #git config --global user.email "1399622866@qq.com"
